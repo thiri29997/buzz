@@ -1,2 +1,2 @@
 # buzz
-bot buzzbreak
+bot buzzbreak/
